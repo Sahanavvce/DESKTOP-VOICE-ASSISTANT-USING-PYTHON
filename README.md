@@ -1,4 +1,5 @@
 # DESKTOP-VOICE-ASSISTANT-USING-PYTHON
-An Desktop voice assistant. (DVA) 
+A Desktop voice assistant(DVA). 
+I named this assistant as "GOOGLY".
 It is a software agent that can perform tasks or services for an individual based on commands or questions.
-Desktop voice assistants are able to interpret human. speech and respond via synthesized voices. 
+Desktop voice assistants are able to interpret human speech and respond via synthesized voices. 
